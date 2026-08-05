@@ -60,4 +60,26 @@ The corpus is an **expert-curated systematization**, not an exhaustive database-
 
 ## Citation
 
-If you use this inventory, please cite the GAISS 2026 paper (see the main proceedings entry).
+This repository is supplementary material for the following paper. The paper is
+scheduled to appear in **IEEE Xplore** after the conference (IEEE GAISS 2026,
+28--30 October 2026); the official DOI and proceedings link will be added here
+once assigned.
+
+> H. S. Siddhu, A. Dhole, and S. R. Kathi, "SoK: Generative AI Across the Secure
+> Software Development Lifecycle — Risks, Defenses, and DevSecOps Integration,"
+> in *Proc. IEEE Conf. Generative AI for Secure Systems (GAISS)*, Austin, TX,
+> USA, 2026. (To appear.)
+
+BibTeX:
+
+```bibtex
+@inproceedings{siddhu2026sok,
+  author    = {Siddhu, Harpreet Singh and Dhole, Animesh and Kathi, Sravan Reddy},
+  title     = {{SoK}: Generative {AI} Across the Secure Software Development
+               Lifecycle---Risks, Defenses, and {DevSecOps} Integration},
+  booktitle = {Proc. IEEE Conf. Generative AI for Secure Systems (GAISS)},
+  address   = {Austin, TX, USA},
+  year      = {2026},
+  note      = {To appear; IEEE Xplore DOI to be added upon publication}
+}
+```
